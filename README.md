@@ -62,24 +62,3 @@ If not, navigate to /nachos/code/build.linux/ and run the following commands:
 
 By default, the quantum is set to 100, if you want to give quantum by default run the following way 
 * ./nachos -x ../test/matmult -q 10000000
-
-## Output
-
-<img width="748" alt="screen shot 2018-11-19 at 07 04 35" src="https://user-images.githubusercontent.com/11005163/50483146-7569a100-09b8-11e9-8d0d-697ddc8ba0d4.png">
-
-<img width="679" alt="screen shot 2018-11-19 at 07 04 52" src="https://user-images.githubusercontent.com/11005163/50483151-7b5f8200-09b8-11e9-8cc8-feaf103dd870.png">
-
-<img width="675" alt="screen shot 2018-11-19 at 07 05 07" src="https://user-images.githubusercontent.com/11005163/50483153-7f8b9f80-09b8-11e9-8032-c1340d43db09.png">
-
-<img width="677" alt="screen shot 2018-11-19 at 07 05 39" src="https://user-images.githubusercontent.com/11005163/50483158-82869000-09b8-11e9-88ce-22aa706d1fd2.png">
-
-<img width="677" alt="screen shot 2018-11-19 at 07 06 16" src="https://user-images.githubusercontent.com/11005163/50483163-85818080-09b8-11e9-954c-fca768ec302f.png">
-
-<img width="674" alt="screen shot 2018-11-19 at 07 07 19" src="https://user-images.githubusercontent.com/11005163/50483172-8ca88e80-09b8-11e9-9a47-22dd3263459b.png">
-
-<img width="758" alt="screen shot 2018-11-19 at 07 07 33" src="https://user-images.githubusercontent.com/11005163/50483174-903c1580-09b8-11e9-8dec-48853384b33f.png">
-
-<img width="664" alt="screen shot 2018-11-19 at 07 07 46" src="https://user-images.githubusercontent.com/11005163/50483179-93370600-09b8-11e9-862c-9e11a7b45520.png">
-
-<img width="1263" alt="screen shot 2018-11-19 at 07 08 03" src="https://user-images.githubusercontent.com/11005163/50483182-97632380-09b8-11e9-8bbb-95fba86501c5.png">
-
